@@ -45,4 +45,4 @@ def programa(index):
     print("")
 
 while True:
-    programa(banner)
+    programa(index)
